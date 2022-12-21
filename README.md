@@ -1,3 +1,2 @@
 # MyWork
-That work not finish yet now im working with
-Currently am working on site responsiveness and adding some js code
+This repository was created to display some of my work
